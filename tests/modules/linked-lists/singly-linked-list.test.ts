@@ -1,4 +1,4 @@
-import { SinglyLinkedList } from '../src/modules/singly-linked-list/singly-linked-list';
+import { SinglyLinkedList } from '@/modules/linked-lists/singly-linked-list';
 
 describe('SinglyLinkedList', () => {
     it('should initialize empty', () => {
